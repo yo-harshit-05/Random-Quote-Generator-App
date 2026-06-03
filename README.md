@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # random_quote_genrator
 
 A new Flutter project.
@@ -15,3 +16,7 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+=======
+# Random-Quote-Generator-App
+Built with Flutter
+>>>>>>> d048e9c59582de90d33ec7b971a97e0c4a218d91
