@@ -1,0 +1,504 @@
+[
+  {
+    "quote": "Dream big and dare to fail.",
+    "author": "Norman Vaughan",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Love all, trust a few.",
+    "author": "William Shakespeare",
+    "category": "Love"
+  },
+  {
+    "quote": "Success is not final, failure is not fatal.",
+    "author": "Winston Churchill",
+    "category": "Success"
+  },
+  {
+    "quote": "Life is what happens when you're busy making other plans.",
+    "author": "John Lennon",
+    "category": "Life"
+  },
+  {
+    "quote": "Be yourself; everyone else is already taken.",
+    "author": "Oscar Wilde",
+    "category": "Life"
+  },
+  {
+    "quote": "To be, or not to be, that is the question.",
+    "author": "William Shakespeare",
+    "category": "Life"
+  },
+  {
+    "quote": "All the world's a stage.",
+    "author": "William Shakespeare",
+    "category": "Life"
+  },
+  {
+    "quote": "The fault, dear Brutus, is not in our stars.",
+    "author": "William Shakespeare",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "Some are born great, some achieve greatness.",
+    "author": "William Shakespeare",
+    "category": "Success"
+  },
+  {
+    "quote": "Cowards die many times before their deaths.",
+    "author": "William Shakespeare",
+    "category": "Courage"
+  },
+  {
+    "quote": "Always forgive your enemies; nothing annoys them so much.",
+    "author": "Oscar Wilde",
+    "category": "Humor"
+  },
+  {
+    "quote": "To live is the rarest thing in the world.",
+    "author": "Oscar Wilde",
+    "category": "Life"
+  },
+  {
+    "quote": "Experience is simply the name we give our mistakes.",
+    "author": "Oscar Wilde",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "A true friend stabs you in the front.",
+    "author": "Oscar Wilde",
+    "category": "Friendship"
+  },
+  {
+    "quote": "The journey of a thousand miles begins with one step.",
+    "author": "Lao Tzu",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Nature does not hurry, yet everything is accomplished.",
+    "author": "Lao Tzu",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "Knowing others is intelligence; knowing yourself is wisdom.",
+    "author": "Lao Tzu",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "He who conquers others is strong.",
+    "author": "Lao Tzu",
+    "category": "Success"
+  },
+  {
+    "quote": "Silence is a source of great strength.",
+    "author": "Lao Tzu",
+    "category": "Peace"
+  },
+  {
+    "quote": "Two things are infinite: the universe and human stupidity.",
+    "author": "Albert Einstein",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "Imagination is more important than knowledge.",
+    "author": "Albert Einstein",
+    "category": "Knowledge"
+  },
+  {
+    "quote": "Life is like riding a bicycle.",
+    "author": "Albert Einstein",
+    "category": "Life"
+  },
+  {
+    "quote": "Try not to become a man of success but value.",
+    "author": "Albert Einstein",
+    "category": "Success"
+  },
+  {
+    "quote": "Only a life lived for others is worthwhile.",
+    "author": "Albert Einstein",
+    "category": "Life"
+  },
+  {
+    "quote": "The secret of getting ahead is getting started.",
+    "author": "Mark Twain",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Kindness is the language which the deaf can hear.",
+    "author": "Mark Twain",
+    "category": "Kindness"
+  },
+  {
+    "quote": "The best way to cheer yourself up is to cheer somebody else up.",
+    "author": "Mark Twain",
+    "category": "Happiness"
+  },
+  {
+    "quote": "Courage is resistance to fear, mastery of fear.",
+    "author": "Mark Twain",
+    "category": "Courage"
+  },
+  {
+    "quote": "If you tell the truth, you don't have to remember anything.",
+    "author": "Mark Twain",
+    "category": "Truth"
+  },
+  {
+    "quote": "You must be the change you wish to see in the world.",
+    "author": "Mahatma Gandhi",
+    "category": "Motivation"
+  },
+  {
+    "quote": "The weak can never forgive.",
+    "author": "Mahatma Gandhi",
+    "category": "Forgiveness"
+  },
+  {
+    "quote": "Live as if you were to die tomorrow.",
+    "author": "Mahatma Gandhi",
+    "category": "Life"
+  },
+  {
+    "quote": "An eye for an eye only ends up making the whole world blind.",
+    "author": "Mahatma Gandhi",
+    "category": "Peace"
+  },
+  {
+    "quote": "Happiness is when what you think, what you say, and what you do are in harmony.",
+    "author": "Mahatma Gandhi",
+    "category": "Happiness"
+  },
+  {
+    "quote": "Everything you've ever wanted is on the other side of fear.",
+    "author": "George Addair",
+    "category": "Motivation"
+  }
+,
+  {
+    "quote": "Believe you can and you're halfway there.",
+    "author": "Theodore Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Do what you can, with what you have, where you are.",
+    "author": "Theodore Roosevelt",
+    "category": "Success"
+  },
+  {
+    "quote": "Keep your eyes on the stars and your feet on the ground.",
+    "author": "Theodore Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "quote": "It is hard to fail, but it is worse never to have tried.",
+    "author": "Theodore Roosevelt",
+    "category": "Courage"
+  },
+  {
+    "quote": "No one can make you feel inferior without your consent.",
+    "author": "Eleanor Roosevelt",
+    "category": "Confidence"
+  },
+  {
+    "quote": "The future belongs to those who believe in the beauty of their dreams.",
+    "author": "Eleanor Roosevelt",
+    "category": "Dreams"
+  },
+  {
+    "quote": "Do one thing every day that scares you.",
+    "author": "Eleanor Roosevelt",
+    "category": "Courage"
+  },
+  {
+    "quote": "With the new day comes new strength and new thoughts.",
+    "author": "Eleanor Roosevelt",
+    "category": "Motivation"
+  },
+  {
+    "quote": "If opportunity doesn't knock, build a door.",
+    "author": "Milton Berle",
+    "category": "Success"
+  },
+  {
+    "quote": "The best revenge is massive success.",
+    "author": "Frank Sinatra",
+    "category": "Success"
+  },
+  {
+    "quote": "Turn your wounds into wisdom.",
+    "author": "Oprah Winfrey",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "Doing the best at this moment puts you in the best place for the next moment.",
+    "author": "Oprah Winfrey",
+    "category": "Motivation"
+  },
+  {
+    "quote": "The biggest adventure you can take is to live the life of your dreams.",
+    "author": "Oprah Winfrey",
+    "category": "Dreams"
+  },
+  {
+    "quote": "If you want to lift yourself up, lift up someone else.",
+    "author": "Booker T. Washington",
+    "category": "Kindness"
+  },
+  {
+    "quote": "Success is to be measured not so much by the position reached.",
+    "author": "Booker T. Washington",
+    "category": "Success"
+  },
+  {
+    "quote": "Act as if what you do makes a difference. It does.",
+    "author": "William James",
+    "category": "Motivation"
+  },
+  {
+    "quote": "The greatest discovery is that a human can alter his life.",
+    "author": "William James",
+    "category": "Life"
+  },
+  {
+    "quote": "A person who never made a mistake never tried anything new.",
+    "author": "Albert Einstein",
+    "category": "Learning"
+  },
+  {
+    "quote": "In the middle of difficulty lies opportunity.",
+    "author": "Albert Einstein",
+    "category": "Success"
+  },
+  {
+    "quote": "Strive not to be a success, but rather to be of value.",
+    "author": "Albert Einstein",
+    "category": "Success"
+  },
+  {
+    "quote": "Education is what remains after one has forgotten what one learned.",
+    "author": "Albert Einstein",
+    "category": "Education"
+  },
+  {
+    "quote": "Where there is love there is life.",
+    "author": "Mahatma Gandhi",
+    "category": "Love"
+  },
+  {
+    "quote": "Freedom is not worth having if it does not include the freedom to make mistakes.",
+    "author": "Mahatma Gandhi",
+    "category": "Freedom"
+  },
+  {
+    "quote": "Strength does not come from physical capacity.",
+    "author": "Mahatma Gandhi",
+    "category": "Strength"
+  },
+  {
+    "quote": "Nobody can hurt me without my permission.",
+    "author": "Mahatma Gandhi",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "You are never too old to set another goal.",
+    "author": "C. S. Lewis",
+    "category": "Goals"
+  },
+  {
+    "quote": "Hardships often prepare ordinary people for an extraordinary destiny.",
+    "author": "C. S. Lewis",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Integrity is doing the right thing even when no one is watching.",
+    "author": "C. S. Lewis",
+    "category": "Integrity"
+  },
+  {
+    "quote": "We are what we repeatedly do. Excellence, then, is not an act but a habit.",
+    "author": "Aristotle",
+    "category": "Success"
+  },
+  {
+    "quote": "Knowing yourself is the beginning of all wisdom.",
+    "author": "Aristotle",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "Pleasure in the job puts perfection in the work.",
+    "author": "Aristotle",
+    "category": "Work"
+  },
+  {
+    "quote": "Patience is bitter, but its fruit is sweet.",
+    "author": "Aristotle",
+    "category": "Patience"
+  },
+  {
+    "quote": "It does not matter how slowly you go as long as you do not stop.",
+    "author": "Confucius",
+    "category": "Motivation"
+  },
+  {
+    "quote": "The man who moves a mountain begins by carrying away small stones.",
+    "author": "Confucius",
+    "category": "Success"
+  },
+  {
+    "quote": "Our greatest glory is not in never falling, but in rising every time we fall.",
+    "author": "Confucius",
+    "category": "Courage"
+  }
+,
+  {
+    "quote": "When anger rises, think of the consequences.",
+    "author": "Confucius",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "The will to win, the desire to succeed are the keys to excellence.",
+    "author": "Confucius",
+    "category": "Success"
+  },
+  {
+    "quote": "You miss 100% of the shots you don't take.",
+    "author": "Wayne Gretzky",
+    "category": "Motivation"
+  },
+  {
+    "quote": "The harder I work, the luckier I get.",
+    "author": "Samuel Goldwyn",
+    "category": "Success"
+  },
+  {
+    "quote": "Don't watch the clock; do what it does. Keep going.",
+    "author": "Sam Levenson",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Success usually comes to those who are too busy to be looking for it.",
+    "author": "Henry David Thoreau",
+    "category": "Success"
+  },
+  {
+    "quote": "Go confidently in the direction of your dreams.",
+    "author": "Henry David Thoreau",
+    "category": "Dreams"
+  },
+  {
+    "quote": "Dreams are the touchstones of our character.",
+    "author": "Henry David Thoreau",
+    "category": "Dreams"
+  },
+  {
+    "quote": "The only way to do great work is to love what you do.",
+    "author": "Steve Jobs",
+    "category": "Work"
+  },
+  {
+    "quote": "Stay hungry, stay foolish.",
+    "author": "Steve Jobs",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Innovation distinguishes between a leader and a follower.",
+    "author": "Steve Jobs",
+    "category": "Leadership"
+  },
+  {
+    "quote": "Your time is limited, so don't waste it living someone else's life.",
+    "author": "Steve Jobs",
+    "category": "Life"
+  },
+  {
+    "quote": "If you can dream it, you can do it.",
+    "author": "Walt Disney",
+    "category": "Dreams"
+  },
+  {
+    "quote": "The way to get started is to quit talking and begin doing.",
+    "author": "Walt Disney",
+    "category": "Motivation"
+  },
+  {
+    "quote": "All our dreams can come true if we have the courage to pursue them.",
+    "author": "Walt Disney",
+    "category": "Dreams"
+  },
+  {
+    "quote": "Why fit in when you were born to stand out?",
+    "author": "Dr. Seuss",
+    "category": "Confidence"
+  },
+  {
+    "quote": "Today you are you, that is truer than true.",
+    "author": "Dr. Seuss",
+    "category": "Self"
+  },
+  {
+    "quote": "Sometimes the questions are complicated and the answers are simple.",
+    "author": "Dr. Seuss",
+    "category": "Wisdom"
+  },
+  {
+    "quote": "Do what you feel in your heart to be right.",
+    "author": "Eleanor Roosevelt",
+    "category": "Courage"
+  },
+  {
+    "quote": "Keep smiling, because life is a beautiful thing.",
+    "author": "Marilyn Monroe",
+    "category": "Life"
+  },
+  {
+    "quote": "Imperfection is beauty, madness is genius.",
+    "author": "Marilyn Monroe",
+    "category": "Beauty"
+  },
+  {
+    "quote": "A girl should be two things: who and what she wants.",
+    "author": "Coco Chanel",
+    "category": "Confidence"
+  },
+  {
+    "quote": "Success is often achieved by those who don't know that failure is inevitable.",
+    "author": "Coco Chanel",
+    "category": "Success"
+  },
+  {
+    "quote": "The most courageous act is still to think for yourself.",
+    "author": "Coco Chanel",
+    "category": "Courage"
+  },
+  {
+    "quote": "Do not go where the path may lead, go instead where there is no path.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Leadership"
+  },
+  {
+    "quote": "What lies behind us and what lies before us are tiny matters.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Motivation"
+  },
+  {
+    "quote": "Make the most of yourself, for that is all there is of you.",
+    "author": "Ralph Waldo Emerson",
+    "category": "Self"
+  },
+  {
+    "quote": "Nothing is impossible, the word itself says 'I'm possible'.",
+    "author": "Audrey Hepburn",
+    "category": "Motivation"
+  },
+  {
+    "quote": "The best thing to hold onto in life is each other.",
+    "author": "Audrey Hepburn",
+    "category": "Love"
+  },
+  {
+    "quote": "Everything is possible for the one who believes.",
+    "author": "Audrey Hepburn",
+    "category": "Faith"
+  }
+]
